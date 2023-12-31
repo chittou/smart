@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521976338734",
+    "project_id": "chitta-a421f",
+    "storage_bucket": "chitta-a421f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521976338734:android:a10d6daa57b29872a142bf",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ft-JC5IfAqYPXAd6CJmHhgFd2K6ECHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
